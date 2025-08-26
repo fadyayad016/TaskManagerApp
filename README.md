@@ -1,5 +1,5 @@
 React Native Task Manager App
-This is a simple task manager application built with React Native and Expo. It allows users to add, view, complete, and delete tasks. This project was created as a part of the Chapter One front-end tech screen.
+This is a simple task manager application built with React Native and Expo. It allows users to add, view, complete, and delete tasks. This project was created as a part of the front-end tech screen for the company Chapter One.
 
 Features
 Add a Task: Users can type a task into the input field and press "Add" to add it to their list.
